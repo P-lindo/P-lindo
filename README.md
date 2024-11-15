@@ -18,12 +18,13 @@
   - 🌱 I like reading a good fiction book, playing online games, go to the gym and swim! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \´o`/
 </details>
 
-  ##
+  ---
 
 <!-- GithubStats -->
 <div>
   <img width="45%" align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=P-lindo&show_icons=true&theme=gruvbox_light&hide_title=true&include_all_commits=true&count_private=true"/>
   <img width="54%" align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-lindo&line_height=10&card_width=290&layout=compact&hide_title=true&count_private=true&langs_count=4&show_icons=true&theme=gruvbox_light"/>
+  <img align="right" src="https://github.com/P-lindo/gif/blob/main/gifmaker_me.gif" width="180" height="180"" alt="Imagem">
 </div>
 
 ## 💭 Connect With me
@@ -31,7 +32,7 @@
  <div>
   <a href="https://www.linkedin.com/in/pablo-pinheiro-05ab10240" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/astrorice_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="mailto:pablo.pinheiro070@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
+   <a href="mailto:pablo.pinheiro070@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
 
 ## 🌱 Skills
@@ -53,15 +54,16 @@
 ##
 
 <!-- Snake -->
+<div align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/P-lindo/P-lindo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/P-lindo/P-lindo/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/P-lindo/P-lindo/output/github-contribution-grid-snake.svg">
+</div>
+
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-</picture><br>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/P-lindo/P-lindo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/P-lindo/P-lindo/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/P-lindo/P-lindo/output/github-contribution-grid-snake.svg">
+</picture>
 
-<!-- GIF -->
-<p align="center"><br>
-  <img align="center" src="https://github.com/P-lindo/gif/blob/main/gifmaker_me.gif" width="180" height="180"" alt="Imagem">
-</p>
-
-##
+---
