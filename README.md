@@ -22,9 +22,8 @@
 
 <!-- GithubStats -->
 <div>
-  <img height="170em" align="left" src="https://github-readme-stats.vercel.app/api?username=P-lindo&show_icons=true&theme=gruvbox_light&hide_title=true&include_all_commits=true&count_private=true"/>
-  <img height="170em" aline="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-lindo&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&theme=gruvbox_light"/>
-  <img align="right" alt="Eu-Cartoon" src="https://github.com/P-lindo/gif/blob/main/gifmaker_me.gif" width="150" height="150" alt="Imagem">
+  <img width="42%" align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=P-lindo&show_icons=true&theme=gruvbox_light&hide_title=false&include_all_commits=true&count_private=true"/>
+  <img width="42%" align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-lindo&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&theme=gruvbox_light"/>
 </div>
 
 ## 💭 Connect With me
@@ -59,5 +58,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture><br>
+
+<!-- GIF -->
+<p align="center"><br>
+  <img align="center" src="https://github.com/P-lindo/gif/blob/main/gifmaker_me.gif" width="180" height="180"" alt="Imagem">
+</p>
 
 ##
