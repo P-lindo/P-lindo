@@ -22,20 +22,20 @@
 
 <!-- GithubStats -->
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=P-lindo&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-lindo&layout=compact&langs_count=16&theme=gotham"/>
+  <img height="170em" align="left" src="https://github-readme-stats.vercel.app/api?username=P-lindo&show_icons=true&theme=gruvbox_light&hide_title=true&include_all_commits=true&count_private=true"/>
+  <img height="170em" aline="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-lindo&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&theme=gruvbox_light"/>
   <img align="right" alt="Eu-Cartoon" src="https://github.com/P-lindo/gif/blob/main/gifmaker_me.gif" width="150" height="150" alt="Imagem">
 </div>
 
-  ##
-
+## 💭 Connect With me
 <!-- Links -->
  <div>
   <a href="https://www.linkedin.com/in/pablo-pinheiro-05ab10240" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/astrorice" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="mailto:pablo.pinheiro070@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
  </div>
 
-## 🔥 Skills
+## 🌱 Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
@@ -51,11 +51,13 @@
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   </div>
 
+##
 
-#
-
+<!-- Snake -->
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-</picture>
+</picture><br>
+
+##
