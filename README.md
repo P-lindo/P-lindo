@@ -22,8 +22,8 @@
 
 <!-- GithubStats -->
 <div>
-  <img width="42%" align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=P-lindo&show_icons=true&theme=gruvbox_light&hide_title=true&include_all_commits=true&count_private=true"/>
-  <img width="42%" align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-lindo&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&theme=gruvbox_light"/>
+  <img width="45%" align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=P-lindo&show_icons=true&theme=gruvbox_light&hide_title=true&include_all_commits=true&count_private=true"/>
+  <img width="45%" align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-lindo&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&theme=gruvbox_light"/>
 </div>
 
 ## 💭 Connect With me
