@@ -21,7 +21,7 @@
 <!-- GithubStats -->
 <div>
   <img width="45%" align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=P-lindo&show_icons=true&theme=slateorange&hide_title=false&include_all_commits=true&count_private=true"/>
-  <img width="54%" align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-lindo&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&theme=slateorange"/>
+  <img width="50%" align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-lindo&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&theme=slateorange"/>
 </div>
 
 ## 💭 Connect With me
