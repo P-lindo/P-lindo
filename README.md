@@ -1,7 +1,5 @@
 <!--título-->
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;" />
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=FF8C00&center=true&vCenter=true&random=false&width=1000&lines=Hello!👋)](https://git.io/typing-svg)
 
 <!-- Presentation -->
 <p>
@@ -22,9 +20,8 @@
 
 <!-- GithubStats -->
 <div>
-  <img width="45%" align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=P-lindo&show_icons=true&theme=gruvbox_light&hide_title=true&include_all_commits=true&count_private=true"/>
-  <img width="54%" align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-lindo&line_height=10&card_width=290&layout=compact&hide_title=true&count_private=true&langs_count=4&show_icons=true&theme=gruvbox_light"/>
-  <img align="right" src="https://github.com/P-lindo/gif/blob/main/gifmaker_me.gif" width="180" height="180"" alt="Imagem">
+  <img width="45%" align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=P-lindo&show_icons=true&theme=slateorange&hide_title=false&include_all_commits=true&count_private=true"/>
+  <img width="54%" align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-lindo&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&theme=slateorange"/>
 </div>
 
 ## 💭 Connect With me
