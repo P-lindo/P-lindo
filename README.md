@@ -9,12 +9,9 @@
 
 <!-- Dropdown -->
 <details>
-  <summary> 🏳️‍🌈 More about me</summary>
+  <summary> 💭 More about me</summary>
 
-  - 💭 I am 21 years old and currently live in Minas Gerais, Brasil. I'm not fluent in English, but I'm always trying to improve. In college, I worked with C, Java and Python, and currently I continue studying Java (my favorite language) so I can work in development and cybersecurity in the future
-
-  - 🌱 I like reading a good fiction book, playing online games, go to the gym and swim! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \´o`/
-</details>
+  - 🌱 I am 21 years old and currently live in Minas Gerais, Brasil. I'm not fluent in English, but I'm always trying to improve. In college, I worked with C, Java and Python, and currently I continue studying Java (my favorite language) so I can work in development and cybersecurity in the future
 
   ---
 
